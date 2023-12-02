@@ -1,8 +1,7 @@
 site_name: My Docs
-docs/
-  index.md
-  test.md
 
 nav:
-  - index.md
-  - test.md
+  - Home: index.md
+  - test:
+      - test page1: test.md
+      - test page2: test.md
