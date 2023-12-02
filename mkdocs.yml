@@ -1,4 +1,8 @@
 site_name: My Docs
-docs/
-  index.md
-  test.md
+# docs/
+#   index.md
+#   test.md
+
+nav:
+  - index.md
+  - test.md
