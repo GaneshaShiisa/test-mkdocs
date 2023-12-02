@@ -27,3 +27,6 @@ mainブランチにプッシュしたらGitHub Actionsでページを公開さ�
 1. 「Branch」を「gh-pages」に変更して、「Save」をクリックする。
 
 参考：[自分で作ったWebページをインターネット上に公開しよう！ 5. ページの公開](https://prog-8.com/docs/github-pages)
+
+## リンクのテスト
+[test](test.md)
